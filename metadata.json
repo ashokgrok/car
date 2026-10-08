@@ -1,0 +1,6 @@
+{
+  "name": "Connection-at-Risk (CaR)",
+  "description": "Proactive cross-modal connection risk identification and operational management platform for airport-to-port passenger transfers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
